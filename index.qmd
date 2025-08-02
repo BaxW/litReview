@@ -18,7 +18,3 @@ author:
     roles: []
     affiliations:
 
-
-:::{#refs}
-
-:::
